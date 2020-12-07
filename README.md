@@ -26,4 +26,4 @@ Things you may want to cover:
 
 ## JS Front End
 
-Back end is [here](https://github.com/cjbrock/js-hogs-back-end-030220)
+Front end is [here](https://github.com/billymeku/example2repo)
